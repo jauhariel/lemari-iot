@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 #include <ESP32Servo.h>
 
-const char* ssid = "ujanga";
-const char* password = "udin1234";
+const char* ssid = "namawifimu";
+const char* password = "passwordwifimu";
 
 // inisialisasi Bot Token
 #define BOTtoken "token botnya"  // Bot Token dari BotFather
