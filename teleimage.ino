@@ -8,10 +8,10 @@ const char* ssid = "ujanga";
 const char* password = "udin1234";
 
 // inisialisasi Bot Token
-#define BOTtoken "7018332300:AAG18VH0pERJ8zwWI9wYSasWlkXBMGjr8QM"  // Bot Token dari BotFather
+#define BOTtoken "token botnya"  // Bot Token dari BotFather
 
 // chat id dari @myidbot
-#define CHAT_ID "631081992"
+#define CHAT_ID "chatidlu"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
