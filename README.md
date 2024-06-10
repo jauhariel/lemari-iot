@@ -14,6 +14,7 @@ Sebuah proyek lemari mini dengan IoT sederhana yang dikontrol menggunakan Telegr
 7. <a href="https://id.shp.ee/98ygqdc">Breadboard</a> <br>
 8. <a href="https://id.shp.ee/6kzRveS">Kabel Micro USB</a> <br>
 9. <a href="https://id.shp.ee/FYKwbsf">Lakban</a>
+10. Resistor
 
 Yg harus dilakuin saat pertama kali beli esp32 : <a href="https://youtu.be/eXF17uDvLj0">https://youtu.be/eXF17uDvLj0</a>
 
