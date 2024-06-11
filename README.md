@@ -3,6 +3,7 @@ Sebuah proyek lemari mini dengan IoT sederhana yang dikontrol menggunakan Telegr
 
 ## Kerangkanya
 <img src="https://raw.githubusercontent.com/Jauhariq/lemari-iot/main/image/esp32cuydesain.png" />
+<img src="https://raw.githubusercontent.com/Jauhariq/lemari-iot/main/image/kerangkaril.jpg" />
 
 ## Alat yang digunakan : <br>
 1. <a href="https://id.shp.ee/6kzRveS">Esp32 devkit v1</a> <br>
